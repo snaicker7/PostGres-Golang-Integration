@@ -1,5 +1,5 @@
 # PostGres-Golang-Integration
-I this project, we will integrate postgres with Golang
+In this project, we will integrate postgres with Golang
 
 
 Important Postgres Commands:-
